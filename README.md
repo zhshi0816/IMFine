@@ -24,7 +24,7 @@ python evaluation.py
 ## Main Algorithm
 Due to IP-policy, we don't have plan to release the codes at the moment.
 
-
+## Citation
 Please consider citing this paper if you find the code and data useful in your research:
 ```
 @inproceedings{imfine,
