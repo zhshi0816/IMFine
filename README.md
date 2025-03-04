@@ -2,7 +2,7 @@
 
 This repo is the official implementation of 'IMFine: 3D Inpainting via Geometry-guided Multi-view Refinement', CVPR 2025.
 
-[Paper](), [Project Page](https://xinxinzuo2353.github.io/imfine/), [Evaluation Results](), [Dataset]()
+[Paper](), [Project Page](https://xinxinzuo2353.github.io/imfine/), [Evaluation Results](https://drive.google.com/file/d/1r5KytaSENNRIObyVbnDcAVAnhPHd7490/view?usp=drive_link), [Dataset](https://drive.google.com/file/d/1DLuk9KiHPhlK9QpJZthUmIhDQIZH_cOD/view?usp=drive_link)
 
 ## Packages
 The following pakages are required to run the code:
